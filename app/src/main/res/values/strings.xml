@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">BankApp</string>
+    <string name="camera">Camera</string>
+    <string name="success_operation">Operacion exitosa</string>
+    <string name="on_back">OnBack</string>
+    <string name="operation">Operacion</string>
+    <string name="success_movement_status">Estado Exitosa</string>
+    <string name="customer_data">Numero de cliente</string>
+    <string name="date">Fecha</string>
+    <string name="detail">Detalle</string>
+    <string name="balance">Balance</string>
+    <string name="deposit">Consignar</string>
+    <string name="transfer">Transferir</string>
+    <string name="without_movements">Without Movements</string>
+    <string name="without_movements_description">No encontramos movimientos recientes.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="error_dialog_title">Error</string>
+    <string name="error_dialog_description">Se ha producido un error autenticando el usuario</string>
+    <string name="error_dialog_button">Aceptar</string>
+    <string name="profile_title">PROFILE</string>
+    <string name="profile_content_description">Picture User Profile</string>
+    <string name="personal_data_title">Datos Personales</string>
+    <string name="personal_data_name">Nombre</string>
+    <string name="personal_data_user_id">User Id</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="error_dialog_register_description">Se ha producido un error registrando el usuario</string>
+    <string name="success_dialog_register_title">Confirmado</string>
+    <string name="success_dialog_register_description">Tu cuenta ha sido creada exitosamente</string>
+    <string name="take_picture_button">Toma una foto de tu ID</string>
+    <string name="register_form_last_name">Apellido</string>
+    <string name="home_title_movements">"Movimientos"</string>
+
 </resources>
